@@ -1,0 +1,46 @@
+body{
+    
+    background-image: url(https://images5.alphacoders.com/131/1317019.png);
+    background-size: cover;
+    color: white;
+    width: 981px;
+    aspect-ratio: auto 981 / 552;
+    height: 552px;
+}
+
+fieldset{
+    width: min-content;
+    border-width: 0cap;
+}
+.Registrationform{
+    border:3px solid white;
+    border-radius:25px;
+    width: 350px;
+    margin-left: 900px;
+    margin-top: 100px;
+    padding: 30px; 
+    padding-top: 10px; 
+    color: white;
+}
+#heading{
+    text-align: center;
+}
+.submit{
+    width: 20%;
+    height:28px;
+    outline: none;
+    border-radius:13px;
+    border-style: none;
+    color: black;
+    font-weight: 700;
+ }
+ 
+
+.inputbox input{
+    background: none;
+}
+
+.transparent-box {
+    background: none;
+    border-width: 2px;
+}
